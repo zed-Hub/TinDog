@@ -140,14 +140,14 @@ h3{
 }
 
 #cta{
-  padding: 7% 15% 7%;
+  padding: 7% 15%;
   text-align: center;
   background-color: #ff4c68;
   color: #ffffff;
 }
 
 #footer{
-  padding: 6% 15% 6%;
+  padding: 7% 15%;
   text-align: center;
   background-color: #ffffff;
 }
@@ -174,7 +174,11 @@ h3{
     text-align: center;
   }
 
-  h1{
+  .press-logo{
+    width: 25%;
+    margin: 10px 10px 40px;
+  }
+  /* h1{
     font-size: 2.5rem;
   }
 
@@ -188,5 +192,5 @@ h3{
 
   .cta-heading{
     font-size: 2rem;
-  }
+  } */
 }
